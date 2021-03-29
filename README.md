@@ -5,4 +5,5 @@
   Just run make in the folder with all .c and .h files.
 ## Run
   The game takes as command line argument the path to a file with the topscore ever achieved in the game (an example file is in the repository as topscore.txt). For more info see the report.
-  
+## Credit
+  André Flores and Diogo Faria  
