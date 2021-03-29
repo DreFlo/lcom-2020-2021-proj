@@ -1,0 +1,5 @@
+<map id="kbc_command" name="kbc_command">
+<area shape="rect" id="node1" title="Writes a command byte." alt="" coords="5,31,112,57"/>
+<area shape="rect" id="node2" href="$group__keyboard.html#ga178d79b85dcc44547b076a0db9c7c273" title="Tests input buffer." alt="" coords="160,5,252,32"/>
+<area shape="rect" id="node3" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="300,31,391,57"/>
+</map>

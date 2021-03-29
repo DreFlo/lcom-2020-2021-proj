@@ -1,0 +1,4 @@
+<map id="check_line" name="check_line">
+<area shape="rect" id="node1" title="Checks the progress of the line used to create the bridge in&#45;game." alt="" coords="5,5,89,32"/>
+<area shape="rect" id="node2" href="$group__mouse.html#ga92063fd01d23a2463c223d68471d84cb" title="Checks if, while the mouse left button is pressed, the line is being draw in the correct direction." alt="" coords="137,5,240,32"/>
+</map>

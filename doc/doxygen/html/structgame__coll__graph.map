@@ -1,0 +1,8 @@
+<map id="game" name="game">
+<area shape="rect" id="node1" title="Contains the information of the current game." alt="" coords="111,243,165,269"/>
+<area shape="rect" id="node2" href="$struct_entity.html" title="Struct with all needed entity information." alt="" coords="21,153,77,180"/>
+<area shape="rect" id="node3" href="$struct_anim_sprite.html" title=" " alt="" coords="5,5,92,32"/>
+<area shape="rect" id="node4" href="$struct_mouse__p.html" title="Contains the mouse information." alt="" coords="101,153,175,180"/>
+<area shape="rect" id="node5" href="$structtile__map__t.html" title="Struct with all tiles in a fulscreen map." alt="" coords="199,153,282,180"/>
+<area shape="rect" id="node6" href="$structtile__t.html" title="Struct with all needed tile information." alt="" coords="215,5,266,32"/>
+</map>

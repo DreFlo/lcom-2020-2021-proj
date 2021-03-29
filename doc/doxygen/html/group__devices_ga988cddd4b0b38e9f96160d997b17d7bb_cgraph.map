@@ -1,0 +1,36 @@
+<map id="timer" name="timer">
+<area shape="rect" id="node1" title="Handles the drawings of the game state in each timer interrupt." alt="" coords="5,436,56,463"/>
+<area shape="rect" id="node2" href="$group__graphics.html#ga58b56a9af02d37c0b66d88674e579da3" title="Draws cursor at certain coordinates to the main buffer." alt="" coords="345,5,437,32"/>
+<area shape="rect" id="node5" href="$group__graphics.html#gaa72c0c9d88ccd3fde2b5893fbe236b83" title="Draws end menu to main buffer." alt="" coords="121,157,237,184"/>
+<area shape="rect" id="node6" href="$group__game.html#gaffe98e9466d18b1a1ae74ad1eb8f83ac" title="Draws game to the main buffer." alt="" coords="135,208,223,235"/>
+<area shape="rect" id="node10" href="$group__graphics.html#gab695a7581efeb361e44f29648f0cde65" title="Draws an xpm map at certain coordinates to the main buffer." alt="" coords="757,323,838,349"/>
+<area shape="rect" id="node14" href="$group__graphics.html#ga26eaf1daa7d076a246b13126607739ff" title="Draws start menu to the main buffer." alt="" coords="330,309,451,336"/>
+<area shape="rect" id="node15" href="$group__graphics.html#gadf57af8cce7fc24e7c2900722cf77ec3" title="Draws pause menu to the main buffer." alt="" coords="113,411,244,437"/>
+<area shape="rect" id="node16" href="$group__graphics.html#gab5893623c76e064fc5a182b99dc209c7" title="Draws given time on the screen." alt="" coords="138,461,219,488"/>
+<area shape="rect" id="node17" href="$group__game.html#gaf780160920726885ac09cce933186e29" title="Changes current game map." alt="" coords="120,512,237,539"/>
+<area shape="rect" id="node20" href="$group__game.html#ga595a1b7be6b5649a96296160e915f9e5" title="Updates all entites in a game." alt="" coords="104,563,253,589"/>
+<area shape="rect" id="node23" href="$group__game__physics.html#ga741eb1676724d42bebc7fcfca65725be" title="Handles all physics in the game (including collisions)" alt="" coords="123,643,235,669"/>
+<area shape="rect" id="node33" href="$group__mouse.html#gaaea5b3f618e439b47273f9547f8ee72f" title="Resets the counter used to check if there were the 3 necessary bytes for the mouse input." alt="" coords="747,799,848,825"/>
+<area shape="rect" id="node34" href="$group__files.html#gaff228873854a7e2674fe03bc3d6b8719" title="Writes new top score to file." alt="" coords="122,875,235,901"/>
+<area shape="rect" id="node3" href="$group__graphics.html#ga17835dda0988327004015e5c1a80e017" title="Draws an xpm img at certain coordinates to the main buffer." alt="" coords="575,56,652,83"/>
+<area shape="rect" id="node4" href="$group__graphics.html#ga49c3d7ce5e5d7a60a1f34fc15b8ab914" title="Colours a pixel at certain coordinates in a specified buffer." alt="" coords="756,56,839,83"/>
+<area shape="rect" id="node7" href="$group__graphics.html#gaa048ac3b5870246fe7f3933a3d1e6f28" title="Loads background to main buffer." alt="" coords="318,56,463,83"/>
+<area shape="rect" id="node8" href="$group__entity.html#ga963bcba597b44d8395497c64365c6eb8" title="Draws an entity at its position." alt="" coords="347,157,435,184"/>
+<area shape="rect" id="node12" href="$group__graphics.html#gab5282d4dbecb84c0a877e0e52a052198" title="Draws the grphics for a given number of lives on screen." alt="" coords="350,107,431,133"/>
+<area shape="rect" id="node13" href="$group__graphics.html#gafa75d6ad5d6abacb81dce884fb2d9c2c" title="Draws a given score on the screen." alt="" coords="569,284,657,311"/>
+<area shape="rect" id="node9" href="$group__animsprite.html#gac5a9cd9763cd2165e236873ddf5afc49" title="Draws sprite&#39;s animation frame frame_no at position (x, y)" alt="" coords="566,157,661,184"/>
+<area shape="rect" id="node11" href="$group__graphics.html#ga7656802f466f5d2f0fc91f3899321f89" title="Draws an xpm map at certain coordinates to a spcified buffer." alt="" coords="1085,432,1173,459"/>
+<area shape="rect" id="node18" href="$group__tiles.html#ga239bf78b24e2dcb695500e1b36a75d5d" title="Creates a tile map according to an array characters." alt="" coords="333,461,448,488"/>
+<area shape="rect" id="node19" href="$group__tiles.html#ga080957dd73488a1edae7b48c04062d57" title="Creates a tile of a specified type at a specified position." alt="" coords="572,461,655,488"/>
+<area shape="rect" id="node21" href="$group__entity.html#ga56d5a337b99f216ef976e6313aa2b882" title="Updates the animation of an entity according to its speed." alt="" coords="323,512,458,539"/>
+<area shape="rect" id="node22" href="$group__entity.html#gaf07633e432706e891549e86633554797" title="Updates the position of an entity according to its speed." alt="" coords="549,555,677,581"/>
+<area shape="rect" id="node24" href="$group__game__physics.html#gaee5c5c24b1840f17ccbd73991986dcbc" title="Applies accelaration to all entities in the game." alt="" coords="342,613,439,640"/>
+<area shape="rect" id="node25" href="$group__game__physics.html#gaaad0e65a305422814239baad42833761" title="Handles all entity to entity collisions in a game." alt="" coords="325,665,457,706"/>
+<area shape="rect" id="node28" href="$group__game__physics.html#ga027595203698fe2e10a1c2b421dff950" title="Handles all entity to tile collsions in a game." alt="" coords="301,731,480,757"/>
+<area shape="rect" id="node26" href="$group__game__physics.html#ga972c8899542346035a5201ebf780631e" title="Checks if there was a collision between two entities." alt="" coords="546,606,681,647"/>
+<area shape="rect" id="node27" href="$game__physics_8c.html#a80fd9dc010816ac9d4543d6962d2f672" title=" " alt="" coords="537,672,690,699"/>
+<area shape="rect" id="node29" href="$group__game__physics.html#ga0c7ff0d77652067a534b239e67d9f521" title="Checks if there was a collision between an entity and a tile." alt="" coords="528,723,699,749"/>
+<area shape="rect" id="node30" href="$game__physics_8c.html#a3f44eb2f66c2f2dd09ab9d7c09f040fd" title=" " alt="" coords="544,773,683,800"/>
+<area shape="rect" id="node31" href="$group__tiles.html#ga1663530c2205ad4857a80a9ddfccad57" title="Draws a tile to the background buffer." alt="" coords="761,541,834,568"/>
+<area shape="rect" id="node32" href="$group__graphics.html#ga472825e746c187258c069494af3d241e" title="Draws an xpm map at certain coordinates to the background buffer." alt="" coords="896,457,1037,484"/>
+</map>

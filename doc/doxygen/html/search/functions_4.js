@@ -1,0 +1,8 @@
+var searchData=
+[
+  ['game_5fentity_5fentity_5fcollisions_403',['game_entity_entity_collisions',['../group__game__physics.html#gaaad0e65a305422814239baad42833761',1,'game_entity_entity_collisions(Entity_p entity_arr[], size_t size):&#160;game_physics.c'],['../group__game__physics.html#gaaad0e65a305422814239baad42833761',1,'game_entity_entity_collisions(Entity_p entity_arr[], size_t size):&#160;game_physics.c']]],
+  ['game_5fentity_5ftile_5fcollisions_404',['game_entity_tile_collisions',['../group__game__physics.html#ga027595203698fe2e10a1c2b421dff950',1,'game_entity_tile_collisions(Entity_p entity_arr[], size_t size, tile_map_p map, int *score, game_state *state):&#160;game_physics.c'],['../group__game__physics.html#ga027595203698fe2e10a1c2b421dff950',1,'game_entity_tile_collisions(Entity_p entity_arr[], size_t size, tile_map_p map, int *score, game_state *state):&#160;game_physics.c']]],
+  ['game_5ffunc_405',['game_func',['../group__gameplay.html#gad001e47070248aba9492dc6984119b62',1,'game_func(char filepath[]):&#160;gamePlay.c'],['../group__gameplay.html#gad001e47070248aba9492dc6984119b62',1,'game_func(char filepath[]):&#160;gamePlay.c']]],
+  ['game_5fload_5fmap_406',['game_load_map',['../group__game.html#gaf780160920726885ac09cce933186e29',1,'game_load_map(game *G, uint8_t map_no):&#160;game.c'],['../group__game.html#gaf780160920726885ac09cce933186e29',1,'game_load_map(game *G, uint8_t map_no):&#160;game.c']]],
+  ['game_5fupdate_5fentities_407',['game_update_entities',['../group__game.html#ga595a1b7be6b5649a96296160e915f9e5',1,'game_update_entities(game *G):&#160;game.c'],['../group__game.html#ga595a1b7be6b5649a96296160e915f9e5',1,'game_update_entities(game *G):&#160;game.c']]]
+];

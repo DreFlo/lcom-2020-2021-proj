@@ -1,0 +1,6 @@
+<map id="draw_tile_map" name="draw_tile_map">
+<area shape="rect" id="node1" title="Draws a tile map to the backgroud buffer." alt="" coords="5,5,111,32"/>
+<area shape="rect" id="node2" href="$group__tiles.html#ga1663530c2205ad4857a80a9ddfccad57" title="Draws a tile to the background buffer." alt="" coords="159,5,232,32"/>
+<area shape="rect" id="node3" href="$group__graphics.html#ga472825e746c187258c069494af3d241e" title="Draws an xpm map at certain coordinates to the background buffer." alt="" coords="280,5,421,32"/>
+<area shape="rect" id="node4" href="$group__graphics.html#ga7656802f466f5d2f0fc91f3899321f89" title="Draws an xpm map at certain coordinates to a spcified buffer." alt="" coords="469,5,557,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="keyboard" name="keyboard">
+<area shape="rect" id="node1" title="Handles keyboard inputs." alt="" coords="5,31,80,57"/>
+<area shape="rect" id="node2" href="$group__keyboard.html#gaea21e0c941a772912c36a4cdfa381649" title="Handles the keyboard bytes." alt="" coords="128,5,255,32"/>
+<area shape="rect" id="node3" href="$group__mouse.html#gaaea5b3f618e439b47273f9547f8ee72f" title="Resets the counter used to check if there were the 3 necessary bytes for the mouse input." alt="" coords="141,56,242,83"/>
+</map>

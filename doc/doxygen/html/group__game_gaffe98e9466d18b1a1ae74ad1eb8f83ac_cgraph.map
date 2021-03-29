@@ -1,0 +1,14 @@
+<map id="draw_game" name="draw_game">
+<area shape="rect" id="node1" title="Draws game to the main buffer." alt="" coords="5,157,93,184"/>
+<area shape="rect" id="node2" href="$group__graphics.html#gaa048ac3b5870246fe7f3933a3d1e6f28" title="Loads background to main buffer." alt="" coords="141,5,287,32"/>
+<area shape="rect" id="node3" href="$group__graphics.html#ga58b56a9af02d37c0b66d88674e579da3" title="Draws cursor at certain coordinates to the main buffer." alt="" coords="168,56,260,83"/>
+<area shape="rect" id="node6" href="$group__entity.html#ga963bcba597b44d8395497c64365c6eb8" title="Draws an entity at its position." alt="" coords="170,157,258,184"/>
+<area shape="rect" id="node8" href="$group__graphics.html#gab695a7581efeb361e44f29648f0cde65" title="Draws an xpm map at certain coordinates to the main buffer." alt="" coords="478,208,559,235"/>
+<area shape="rect" id="node10" href="$group__graphics.html#gab5282d4dbecb84c0a877e0e52a052198" title="Draws the grphics for a given number of lives on screen." alt="" coords="173,107,255,133"/>
+<area shape="rect" id="node11" href="$group__graphics.html#gafa75d6ad5d6abacb81dce884fb2d9c2c" title="Draws a given score on the screen." alt="" coords="338,259,426,285"/>
+<area shape="rect" id="node12" href="$group__graphics.html#ga26eaf1daa7d076a246b13126607739ff" title="Draws start menu to the main buffer." alt="" coords="153,309,275,336"/>
+<area shape="rect" id="node4" href="$group__graphics.html#ga17835dda0988327004015e5c1a80e017" title="Draws an xpm img at certain coordinates to the main buffer." alt="" coords="343,81,421,108"/>
+<area shape="rect" id="node5" href="$group__graphics.html#ga49c3d7ce5e5d7a60a1f34fc15b8ab914" title="Colours a pixel at certain coordinates in a specified buffer." alt="" coords="477,81,560,108"/>
+<area shape="rect" id="node7" href="$group__animsprite.html#gac5a9cd9763cd2165e236873ddf5afc49" title="Draws sprite&#39;s animation frame frame_no at position (x, y)" alt="" coords="335,157,429,184"/>
+<area shape="rect" id="node9" href="$group__graphics.html#ga7656802f466f5d2f0fc91f3899321f89" title="Draws an xpm map at certain coordinates to a spcified buffer." alt="" coords="608,208,696,235"/>
+</map>

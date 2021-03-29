@@ -1,0 +1,5 @@
+<map id="game_load_map" name="game_load_map">
+<area shape="rect" id="node1" title="Changes current game map." alt="" coords="5,5,123,32"/>
+<area shape="rect" id="node2" href="$group__tiles.html#ga239bf78b24e2dcb695500e1b36a75d5d" title="Creates a tile map according to an array characters." alt="" coords="171,5,285,32"/>
+<area shape="rect" id="node3" href="$group__tiles.html#ga080957dd73488a1edae7b48c04062d57" title="Creates a tile of a specified type at a specified position." alt="" coords="333,5,416,32"/>
+</map>

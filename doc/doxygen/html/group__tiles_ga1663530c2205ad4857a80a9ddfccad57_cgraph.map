@@ -1,0 +1,5 @@
+<map id="draw_tile" name="draw_tile">
+<area shape="rect" id="node1" title="Draws a tile to the background buffer." alt="" coords="5,5,79,32"/>
+<area shape="rect" id="node2" href="$group__graphics.html#ga472825e746c187258c069494af3d241e" title="Draws an xpm map at certain coordinates to the background buffer." alt="" coords="127,5,268,32"/>
+<area shape="rect" id="node3" href="$group__graphics.html#ga7656802f466f5d2f0fc91f3899321f89" title="Draws an xpm map at certain coordinates to a spcified buffer." alt="" coords="316,5,404,32"/>
+</map>

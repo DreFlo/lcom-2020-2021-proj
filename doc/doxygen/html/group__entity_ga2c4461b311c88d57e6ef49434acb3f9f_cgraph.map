@@ -1,0 +1,4 @@
+<map id="create_entity" name="create_entity">
+<area shape="rect" id="node1" title="Creates entity of a specified type at position (x, y)" alt="" coords="5,5,103,32"/>
+<area shape="rect" id="node2" href="$group__animsprite.html#ga86aa6d557c16a2836d5840fa64dd1352" title="Creates an AnimSprite." alt="" coords="151,5,255,32"/>
+</map>

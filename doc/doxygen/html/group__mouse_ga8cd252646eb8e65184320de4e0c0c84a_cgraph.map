@@ -1,0 +1,6 @@
+<map id="mouse_cmd" name="mouse_cmd">
+<area shape="rect" id="node1" title="Sends a mouse command and checks for answer." alt="" coords="5,31,99,57"/>
+<area shape="rect" id="node2" href="$group__keyboard.html#ga6b59a9de2120d6a8589bc2bcd81c60d5" title="Writes a command byte." alt="" coords="147,31,253,57"/>
+<area shape="rect" id="node3" href="$group__keyboard.html#ga178d79b85dcc44547b076a0db9c7c273" title="Tests input buffer." alt="" coords="301,5,393,32"/>
+<area shape="rect" id="node4" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="441,31,532,57"/>
+</map>

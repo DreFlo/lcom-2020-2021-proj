@@ -1,0 +1,4 @@
+<map id="tile_map_t" name="tile_map_t">
+<area shape="rect" id="node1" title="Struct with all tiles in a fulscreen map." alt="" coords="5,95,88,121"/>
+<area shape="rect" id="node2" href="$structtile__t.html" title="Struct with all needed tile information." alt="" coords="21,5,72,32"/>
+</map>

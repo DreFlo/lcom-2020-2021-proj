@@ -1,0 +1,4 @@
+<map id="draw_xpm" name="draw_xpm">
+<area shape="rect" id="node1" title="Draws an xpm map at certain coordinates to the main buffer." alt="" coords="5,5,87,32"/>
+<area shape="rect" id="node2" href="$group__graphics.html#ga7656802f466f5d2f0fc91f3899321f89" title="Draws an xpm map at certain coordinates to a spcified buffer." alt="" coords="135,5,223,32"/>
+</map>

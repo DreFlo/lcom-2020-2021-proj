@@ -1,0 +1,4 @@
+<map id="create_tile_map" name="create_tile_map">
+<area shape="rect" id="node1" title="Creates a tile map according to an array characters." alt="" coords="5,5,120,32"/>
+<area shape="rect" id="node2" href="$group__tiles.html#ga080957dd73488a1edae7b48c04062d57" title="Creates a tile of a specified type at a specified position." alt="" coords="168,5,251,32"/>
+</map>

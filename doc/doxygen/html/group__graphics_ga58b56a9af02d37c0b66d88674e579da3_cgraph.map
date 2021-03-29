@@ -1,0 +1,5 @@
+<map id="draw_cursor" name="draw_cursor">
+<area shape="rect" id="node1" title="Draws cursor at certain coordinates to the main buffer." alt="" coords="5,5,97,32"/>
+<area shape="rect" id="node2" href="$group__graphics.html#ga17835dda0988327004015e5c1a80e017" title="Draws an xpm img at certain coordinates to the main buffer." alt="" coords="145,5,223,32"/>
+<area shape="rect" id="node3" href="$group__graphics.html#ga49c3d7ce5e5d7a60a1f34fc15b8ab914" title="Colours a pixel at certain coordinates in a specified buffer." alt="" coords="271,5,353,32"/>
+</map>

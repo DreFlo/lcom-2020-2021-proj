@@ -1,0 +1,5 @@
+<map id="game_update_entities" name="game_update_entities">
+<area shape="rect" id="node1" title="Updates all entites in a game." alt="" coords="5,31,155,57"/>
+<area shape="rect" id="node2" href="$group__entity.html#ga56d5a337b99f216ef976e6313aa2b882" title="Updates the animation of an entity according to its speed." alt="" coords="203,5,337,32"/>
+<area shape="rect" id="node3" href="$group__entity.html#gaf07633e432706e891549e86633554797" title="Updates the position of an entity according to its speed." alt="" coords="206,56,334,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="game_entity_entity_collisions" name="game_entity_entity_collisions">
+<area shape="rect" id="node1" title="Handles all entity to entity collisions in a game." alt="" coords="5,35,137,76"/>
+<area shape="rect" id="node2" href="$group__game__physics.html#ga972c8899542346035a5201ebf780631e" title="Checks if there was a collision between two entities." alt="" coords="195,5,329,47"/>
+<area shape="rect" id="node3" href="$game__physics_8c.html#a80fd9dc010816ac9d4543d6962d2f672" title=" " alt="" coords="185,71,339,98"/>
+</map>

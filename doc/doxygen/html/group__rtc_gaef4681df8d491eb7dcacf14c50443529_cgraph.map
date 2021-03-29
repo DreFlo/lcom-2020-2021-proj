@@ -1,0 +1,6 @@
+<map id="rtc_get_time" name="rtc_get_time">
+<area shape="rect" id="node1" title="Gets time from rtc saves values in the parameters&#39; addresses in binary." alt="" coords="5,31,100,57"/>
+<area shape="rect" id="node2" href="$group__rtc.html#ga5e34bf1c3da59d0116b51ac2a37aa465" title="Number of calls to the RTC." alt="" coords="149,5,263,32"/>
+<area shape="rect" id="node4" href="$group__proj__utils.html#ga376cf0e57770baaabb644e8eac3cc2f6" title="Converts a BCD number to pure binary. Works with up to 2 digits." alt="" coords="148,56,264,83"/>
+<area shape="rect" id="node3" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="312,5,403,32"/>
+</map>

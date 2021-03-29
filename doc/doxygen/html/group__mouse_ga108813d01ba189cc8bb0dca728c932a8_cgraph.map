@@ -1,0 +1,7 @@
+<map id="mouse_enable_data_report" name="mouse_enable_data_report">
+<area shape="rect" id="node1" title="Enables data reporting." alt="" coords="5,31,184,57"/>
+<area shape="rect" id="node2" href="$group__mouse.html#ga8cd252646eb8e65184320de4e0c0c84a" title="Sends a mouse command and checks for answer." alt="" coords="232,31,325,57"/>
+<area shape="rect" id="node3" href="$group__keyboard.html#ga6b59a9de2120d6a8589bc2bcd81c60d5" title="Writes a command byte." alt="" coords="373,31,480,57"/>
+<area shape="rect" id="node4" href="$group__keyboard.html#ga178d79b85dcc44547b076a0db9c7c273" title="Tests input buffer." alt="" coords="528,5,620,32"/>
+<area shape="rect" id="node5" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="668,31,759,57"/>
+</map>

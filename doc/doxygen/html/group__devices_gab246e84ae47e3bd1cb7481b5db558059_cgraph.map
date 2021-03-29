@@ -1,0 +1,8 @@
+<map id="mouse" name="mouse">
+<area shape="rect" id="node1" title="Handles the mouse inputs." alt="" coords="5,31,67,57"/>
+<area shape="rect" id="node2" href="$group__mouse.html#ga6b0519743f921a9e1f4e858ba429c213" title="Checks the progress of the line used to create the bridge in&#45;game." alt="" coords="131,5,215,32"/>
+<area shape="rect" id="node4" href="$group__game.html#gaf780160920726885ac09cce933186e29" title="Changes current game map." alt="" coords="115,56,232,83"/>
+<area shape="rect" id="node3" href="$group__mouse.html#ga92063fd01d23a2463c223d68471d84cb" title="Checks if, while the mouse left button is pressed, the line is being draw in the correct direction." alt="" coords="286,5,389,32"/>
+<area shape="rect" id="node5" href="$group__tiles.html#ga239bf78b24e2dcb695500e1b36a75d5d" title="Creates a tile map according to an array characters." alt="" coords="280,56,395,83"/>
+<area shape="rect" id="node6" href="$group__tiles.html#ga080957dd73488a1edae7b48c04062d57" title="Creates a tile of a specified type at a specified position." alt="" coords="443,56,525,83"/>
+</map>

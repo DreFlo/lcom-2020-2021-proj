@@ -1,0 +1,4 @@
+<map id="apply_gravity" name="apply_gravity">
+<area shape="rect" id="node1" title="Applies accelaration to all entities in the game." alt="" coords="5,5,103,32"/>
+<area shape="rect" id="node2" href="$group__entity.html#gaf07633e432706e891549e86633554797" title="Updates the position of an entity according to its speed." alt="" coords="151,5,279,32"/>
+</map>

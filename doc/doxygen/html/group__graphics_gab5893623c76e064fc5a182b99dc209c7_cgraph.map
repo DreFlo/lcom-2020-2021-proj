@@ -1,0 +1,5 @@
+<map id="draw_time" name="draw_time">
+<area shape="rect" id="node1" title="Draws given time on the screen." alt="" coords="5,5,87,32"/>
+<area shape="rect" id="node2" href="$group__graphics.html#gab695a7581efeb361e44f29648f0cde65" title="Draws an xpm map at certain coordinates to the main buffer." alt="" coords="135,5,216,32"/>
+<area shape="rect" id="node3" href="$group__graphics.html#ga7656802f466f5d2f0fc91f3899321f89" title="Draws an xpm map at certain coordinates to a spcified buffer." alt="" coords="264,5,352,32"/>
+</map>

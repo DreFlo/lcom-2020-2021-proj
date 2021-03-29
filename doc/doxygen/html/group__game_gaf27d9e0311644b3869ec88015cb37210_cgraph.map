@@ -1,0 +1,6 @@
+<map id="create_game" name="create_game">
+<area shape="rect" id="node1" title="Creates a game at start state." alt="" coords="5,31,103,57"/>
+<area shape="rect" id="node2" href="$group__entity.html#ga2c4461b311c88d57e6ef49434acb3f9f" title="Creates entity of a specified type at position (x, y)" alt="" coords="157,5,255,32"/>
+<area shape="rect" id="node4" href="$group__files.html#ga7df5c5a58a403cf87098cfb1c9e0a6fc" title="Reads the top score from a file." alt="" coords="151,56,261,83"/>
+<area shape="rect" id="node3" href="$group__animsprite.html#ga86aa6d557c16a2836d5840fa64dd1352" title="Creates an AnimSprite." alt="" coords="309,5,413,32"/>
+</map>

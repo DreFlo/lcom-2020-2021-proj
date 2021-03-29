@@ -1,0 +1,4 @@
+<map id="Entity" name="Entity">
+<area shape="rect" id="node1" title="Struct with all needed entity information." alt="" coords="21,153,77,180"/>
+<area shape="rect" id="node2" href="$struct_anim_sprite.html" title=" " alt="" coords="5,5,92,32"/>
+</map>

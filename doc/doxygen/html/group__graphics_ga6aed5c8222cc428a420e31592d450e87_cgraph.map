@@ -1,0 +1,4 @@
+<map id="load_background" name="load_background">
+<area shape="rect" id="node1" title="Loads background and menu images to certain buffers." alt="" coords="5,5,125,32"/>
+<area shape="rect" id="node2" href="$group__graphics.html#ga7656802f466f5d2f0fc91f3899321f89" title="Draws an xpm map at certain coordinates to a spcified buffer." alt="" coords="173,5,261,32"/>
+</map>

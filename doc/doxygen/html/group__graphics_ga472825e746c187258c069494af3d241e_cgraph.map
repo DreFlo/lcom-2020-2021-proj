@@ -1,0 +1,4 @@
+<map id="draw_to_background" name="draw_to_background">
+<area shape="rect" id="node1" title="Draws an xpm map at certain coordinates to the background buffer." alt="" coords="5,5,147,32"/>
+<area shape="rect" id="node2" href="$group__graphics.html#ga7656802f466f5d2f0fc91f3899321f89" title="Draws an xpm map at certain coordinates to a spcified buffer." alt="" coords="195,5,283,32"/>
+</map>
