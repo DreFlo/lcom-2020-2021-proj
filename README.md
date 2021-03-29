@@ -1,6 +1,6 @@
 # TotallyNotMario!
 ## Info
-  Heavily Mario inspired game created for FEUP's MIEIC's LCOM course. Final grade 16.
+  Heavily Mario inspired game created for FEUP's MIEIC's LCOM course. Final grade 16. Only works in LCOM's provided MINIX image.
 ## Compilation
   Just run make in the folder with all .c and .h files.
 ## Run
